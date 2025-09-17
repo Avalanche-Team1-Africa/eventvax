@@ -1,6 +1,6 @@
 # 🎟️ Eventverse
 
-## 🌍 Overview
+## 🌍 Overview.
 
 Eventverse is a revolutionary blockchain-based ticketing platform engineered to combat fraud and inefficiencies in the event ticketing industry. Leveraging the Avalanche blockchain, our platform empowers event organizers to issue tickets as digital tokens, ensuring secure purchases, effortless resales, and QR-code-based authentication.
 
